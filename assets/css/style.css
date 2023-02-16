@@ -122,4 +122,17 @@ footer {
   margin-top: auto;
 }
 
+@media screen and (max-width: 500px) {
+  .hero-banner {
+    height: 50vh;
+  }
+  .hero-banner h1 {
+    font-size: 5rem;
+  }
+
+  .article {
+    padding: 2rem;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
